@@ -39,7 +39,7 @@ The Library Management System provides a safe, efficient means of book, author, 
 ### Prerequisites
 
 - XAMPP
-- SQLyog (or phpMyAdmin)
+- SQLyog
 - JWT PHP Library
 - Node.js
 - Composer
@@ -68,7 +68,7 @@ The Library Management System provides a safe, efficient means of book, author, 
 
 3. **Set Up Database**
 
-   - Open SQLyog or phpMyAdmin and create a new database called `library`.
+   - Open SQLyog and create a new database called `library`.
    - Run the following SQL queries to create the required tables:
 
    ```sql
