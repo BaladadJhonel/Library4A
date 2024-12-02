@@ -53,7 +53,7 @@ The Library Management System provides a safe, efficient means of book, author, 
 
    ```bash
    git clone https://github.com/github_username/Library4A.git
-   cd /path/to/xampp/htdocs/libraryjoseph
+   cd /path/to/xampp/htdocs/library
 
    ```
 
