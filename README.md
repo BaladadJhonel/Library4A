@@ -787,6 +787,6 @@ If you need assistance or have any questions, feel free to reach out to me. Belo
 
 - **Name:** Joseph Emmanuel C. Madriaga
 - **University:** Don Mariano Marcos Memorial State University (Mid-La Union Campus)
-- **Email:** jmadriaga30972@student.dmmmsu.edu.ph
-- **Phone:** 09154224522
+- **Email:** jbaladad16382@student.dmmmsu.edu.ph
+- **Phone:** 09501123877
 <p align="right">(<a href="#library-management-system">back to top</a>)</p>
