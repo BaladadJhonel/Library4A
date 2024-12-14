@@ -29,7 +29,7 @@
 
 ## About the Project
 
-The Library Management System provides a safe, efficient means of book, author, user, and their associations management, robust search, and catalog capabilities. It supports full CRUD operations regarding user management, which can be used for registration and authentication, viewing, updating, and deletion of user profiles, as well as in the case of books, authors, and book-author associations. Users can easily search and catalog books and authors with quick access to information. Token-based authentication with verification and usage tracking ensures that only authorized users will have the ability to operate in the system. The table on book-author relationship helps flexibility through linking books to their actual authors. This system was intended to make and also keep library data management simple as well as secure.
+The Library Management System provides a safe, efficient means of book, author, user, and their associations management, robust search, and catalog capabilities. It supports full CRUD operations regarding user management, which can be used for registration and authentication, viewing, updating, and deletion of user profiles, as well as in the case of books, authors. Users can easily search and catalog books and authors with quick access to information. Token-based authentication with verification and usage tracking ensures that only authorized users will have the ability to operate in the system. The table on book-author relationship helps flexibility through linking books to their actual authors. This system was intended to make and also keep library data management simple as well as secure.
 
 <p align="right">(<a href="#library-management-system">back to top</a>)</p>
 
